@@ -1,0 +1,5 @@
+graph MyPicture {
+	People
+	Home
+	People -- Home
+}
